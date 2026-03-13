@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://SibylleC.github.io/cas2026/manifests/dore.manifest.customization.json",
     "label" : "Pensée d'album [und] Le bourreau de Béthune"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SibylleC.github.io/cas2026/manifests/dore.manifest.json",
+    "label" : "Pensée d'album [und] Le bourreau de Béthune"
   } ]
 }
