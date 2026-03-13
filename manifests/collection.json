@@ -17,5 +17,9 @@
       "en" : [ "Joseph Mallord William Turner, 1775–1851, Dort, or Dordrecht: The Dort Packet-Boat from Rotterdam Becalmed, 1818" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SibylleC.github.io/cas2026/manifests/dore.manifest.customization.json",
+    "label" : "Pensée d'album [und] Le bourreau de Béthune"
   } ]
 }
