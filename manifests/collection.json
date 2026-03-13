@@ -1,0 +1,15 @@
+{
+  "id" : "https://SibylleC.github.io/cas2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in SibylleC/cas2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://SibylleC.github.io/cas2026/manifests/34.customization.json",
+    "label" : {
+      "en" : [ "Joseph Mallord William Turner, 1775–1851, Dort, or Dordrecht: The Dort Packet-Boat from Rotterdam Becalmed, 1818" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
